@@ -27,7 +27,7 @@ python main_ui.py
 ```
 
 > Note: This project currently uses only Python standard library modules (plus Tkinter).  
-> If you add external dependencies later, you can include them in a `requirements.txt`.
+
 
 ## Screenshots
 
