@@ -32,7 +32,7 @@ python main_ui.py
 ## Screenshots
 
 **Main UI (Truth Table + K-Map)**
-![Main UI](UI.png)
+![UI](UI.png)
 
 **Results (SOP/POS for F and F′)**
 ![Results](Results.png)
