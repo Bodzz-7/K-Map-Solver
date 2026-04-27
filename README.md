@@ -38,7 +38,7 @@ python main_ui.py
 ![Results](Results.png)
 
 **Boolean Algebra Derivations window**
-![Simplification Steps](Simplification Steps.png)
+![Simplification Steps](SimplificationSteps.png)
 
 ## Project Structure
 
